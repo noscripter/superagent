@@ -29,7 +29,7 @@
     "cookiejar": "2.0.1",
     "debug": "2",
     "reduce-component": "1.0.1",
-    "extend": "1.2.1",
+    "extend": "2.0.2",
     "form-data": "0.2.0",
     "readable-stream": "1.0.27-1"
   },
